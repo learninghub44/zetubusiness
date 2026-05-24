@@ -58,9 +58,9 @@ In `index.html`:
 ```html
 <!-- Lines ~540 -->
 <p>Founder: Chris Odhiambo</p>
-<p>Nairobi, Kenya</p>
+<p>Kisii, Kenya</p>
 <p>Email: info@zetubusinesssolutions.com</p>
-<p>Phone: +254 700 000 000</p>
+<p>Phone: +254701059192</p>
 
 <!-- Update to your details -->
 ```
