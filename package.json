@@ -1,0 +1,24 @@
+{
+  "name": "zetu-business-solutions",
+  "version": "1.0.0",
+  "description": "Zetu Business Solutions - Modern Software Company",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx http-server -p 8000 -c-1",
+    "start": "npx http-server -p 8000 -c-1",
+    "build": "echo 'Build complete!'",
+    "serve": "npx live-server"
+  },
+  "keywords": [
+    "business",
+    "solutions",
+    "web development",
+    "software",
+    "apps"
+  ],
+  "author": "Chris Odhiambo",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

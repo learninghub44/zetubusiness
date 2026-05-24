@@ -1,0 +1,40 @@
+<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-test2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow6">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="350" height="350" fill="url(#grad-test2)"/>
+  <!-- Avatar -->
+  <circle cx="175" cy="120" r="45" fill="white" filter="url(#shadow6)"/>
+  <text x="175" y="135" font-size="40" font-weight="bold" text-anchor="middle" fill="#4facfe" font-family="Poppins">
+    SK
+  </text>
+  <!-- Quote mark -->
+  <text x="50" y="200" font-size="80" fill="rgba(255,255,255,0.2)" font-family="Georgia">
+    "
+  </text>
+  <!-- Testimonial text -->
+  <text x="175" y="230" font-size="14" text-anchor="middle" fill="white" font-family="Poppins" font-weight="500">
+    The best decision we made was
+  </text>
+  <text x="175" y="250" font-size="14" text-anchor="middle" fill="white" font-family="Poppins" font-weight="500">
+    hiring Zetu for our hospital system.
+  </text>
+  <text x="175" y="270" font-size="14" text-anchor="middle" fill="white" font-family="Poppins" font-weight="500">
+    Patient care has improved 40%!
+  </text>
+  <!-- Stars -->
+  <text x="175" y="305" font-size="16" text-anchor="middle" fill="#ffd700" font-family="Poppins">
+    ★★★★★
+  </text>
+  <!-- Name -->
+  <text x="175" y="330" font-size="13" font-weight="bold" text-anchor="middle" fill="white" font-family="Poppins">
+    Sarah Khan, Hospital Director
+  </text>
+</svg>
